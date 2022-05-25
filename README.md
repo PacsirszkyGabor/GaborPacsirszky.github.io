@@ -1,2 +1,2 @@
-# GaborPacsirszky.github.io
+# PacsirszkyGabor.github.io
 Demo page
